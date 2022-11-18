@@ -7,9 +7,296 @@
     "contributor": "xxxx",
     "data_created": "2019/09/10"
   },
-  "licenses": "",
-  "images": "",
-  "annotations": "",
-  "categories": "",
+  "licenses": {
+    "id": 1,
+    "url": "dummy_words",
+    "name": "administrater"
+  },
+  "images": [
+    {
+      "license": 0,
+      "id": 0,
+      "file_name": "0.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    },
+    {
+      "license": 0,
+      "id": 1,
+      "file_name": "1.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    },
+    {
+      "license": 0,
+      "id": 2,
+      "file_name": "2.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    },
+    {
+      "license": 0,
+      "id": 3,
+      "file_name": "3.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    },
+    {
+      "license": 0,
+      "id": 4,
+      "file_name": "4.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    },
+    {
+      "license": 0,
+      "id": 5,
+      "file_name": "5.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    },
+    {
+      "license": 0,
+      "id": 6,
+      "file_name": "6.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    },
+    {
+      "license": 0,
+      "id": 7,
+      "file_name": "7.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    },
+    {
+      "license": 0,
+      "id": 8,
+      "file_name": "8.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    },
+    {
+      "license": 0,
+      "id": 9,
+      "file_name": "9.png",
+      "width": "640",
+      "height": "480",
+      "date_captured": "2019-09-01 12:34:56",
+      "coco_url": "dummy_words",
+      "flickr_url": "dummy_words"
+    }
+  ],
+  "annotations": [
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10000,
+      "image_id": 0,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    },
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10001,
+      "image_id": 1,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    },
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10002,
+      "image_id": 2,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    },
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10003,
+      "image_id": 3,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    },
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10004,
+      "image_id": 4,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    },
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10005,
+      "image_id": 5,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    },
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10006,
+      "image_id": 6,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    },
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10007,
+      "image_id": 7,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    },
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10008,
+      "image_id": 8,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    },
+    {
+      "segmentation": [
+        [
+          10,
+          8
+        ]
+      ],
+      "id": 10009,
+      "image_id": 9,
+      "category_id": 62,
+      "area": 10,
+      "iscrowd": 0,
+      "bbox": [
+        10,
+        10
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "0",
+      "supercategory": "animal",
+      "name": "dog"
+    },
+    {
+      "id": "1",
+      "supercategory": "pill",
+      "name": "allergy"
+    }
+  ],
   "segment_info": ""
 }
