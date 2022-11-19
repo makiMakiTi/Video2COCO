@@ -5,3 +5,5 @@ RUN pip install --upgrade pip
 RUN python -m pip install jupyterlab
 
 RUN apt-get install -y ffmpeg
+RUN pip install pillow 
+RUN pip install matplotlib numpy

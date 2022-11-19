@@ -1,1 +1,4 @@
 .ipynb_checkpoints/*
+datasets/*
+datasets_video/*
+datasets/images/*
